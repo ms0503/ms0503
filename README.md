@@ -32,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ms0503"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ms0503" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0503&show_icons=true&theme=dark&locale=ja&layout=compact" alt="ms0503" width="49%" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0503&show_icons=true&theme=dark&locale=en&layout=compact" alt="ms0503" width="49%" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
