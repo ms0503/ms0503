@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **ms0503@outlook.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ms0503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ms0503" height="30" width="40" /></a>
@@ -36,9 +32,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ms0503"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ms0503" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0503&show_icons=true&theme=dark&locale=ja&layout=compact" alt="ms0503" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0503&show_icons=true&theme=dark&locale=ja&layout=compact" alt="ms0503" width="49%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms0503&show_icons=true&theme=dark&locale=ja" alt="ms0503" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms0503&theme=dark" alt="ms0503" /></p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
